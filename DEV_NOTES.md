@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Added healthcheck endpoint stub
 - Tested build on clean environment
+
+## 2026-03-23
+- Pinned dependency versions for reproducibility
+- Drafted initial implementation plan for v2
