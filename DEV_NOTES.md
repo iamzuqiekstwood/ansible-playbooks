@@ -25,3 +25,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Added .editorconfig for consistent formatting
 - Fixed minor edge case in input handling
+
+## 2026-04-13
+- Bumped patch version
+- Reviewed open issues, added labels
+- Added CONTRIBUTING.md stub
