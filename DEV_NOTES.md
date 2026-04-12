@@ -30,3 +30,8 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Reviewed open issues, added labels
 - Added CONTRIBUTING.md stub
+
+## 2026-04-13
+- Tidied up project structure
+- Improved log message formatting
+- Drafted initial implementation plan for v2
